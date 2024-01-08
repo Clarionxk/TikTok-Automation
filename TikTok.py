@@ -64,7 +64,7 @@ def downloadVideo(link, id):
 
 
 driver = webdriver.Chrome()
-driver.get("https://www.tiktok.com/@tina_mt__")
+driver.get("")
 
 time.sleep(15)
 
